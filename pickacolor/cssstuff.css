@@ -1,0 +1,41 @@
+/* h1{
+    color: blueviolet;
+    font-size: 60px;
+}
+
+#musashi{
+    width: 250px;
+}
+
+.special{
+    color: teal;
+    font-size: 30px;
+    border: 1px solid teal;
+}
+
+input[type="password"]{
+    height: 50px;
+    width: 100px;
+}
+.todo{
+    color: olive;
+    font-size: 30px;
+}
+.done{
+    color: gray;
+    text-decoration: line-through;
+    opacity: 50%;
+} */
+
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
